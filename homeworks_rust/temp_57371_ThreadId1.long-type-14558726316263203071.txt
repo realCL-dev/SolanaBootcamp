@@ -1,0 +1,1 @@
+for<'a, 'b> fn(&'a PositiveNonzeroInteger, &'b PositiveNonzeroInteger) -> bool {<PositiveNonzeroInteger as PartialEq>::ne}
